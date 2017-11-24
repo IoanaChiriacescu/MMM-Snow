@@ -8,7 +8,7 @@
 Module.register("MMM-Snow",{
 
 	defaults: {
-		flakeCount: 100
+		flakeCount: 80
 	},
 
 	getStyles: function() {
@@ -45,3 +45,4 @@ Module.register("MMM-Snow",{
 	}
 
 });
+
